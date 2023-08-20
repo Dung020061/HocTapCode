@@ -1,0 +1,15 @@
+D:\PRN211_BL5\ConsoleApp1\btbuoi2\bin\Debug\net6.0\btbuoi2.exe
+D:\PRN211_BL5\ConsoleApp1\btbuoi2\bin\Debug\net6.0\btbuoi2.deps.json
+D:\PRN211_BL5\ConsoleApp1\btbuoi2\bin\Debug\net6.0\btbuoi2.runtimeconfig.json
+D:\PRN211_BL5\ConsoleApp1\btbuoi2\bin\Debug\net6.0\btbuoi2.dll
+D:\PRN211_BL5\ConsoleApp1\btbuoi2\bin\Debug\net6.0\btbuoi2.pdb
+D:\PRN211_BL5\ConsoleApp1\btbuoi2\obj\Debug\net6.0\btbuoi2.csproj.AssemblyReference.cache
+D:\PRN211_BL5\ConsoleApp1\btbuoi2\obj\Debug\net6.0\btbuoi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211_BL5\ConsoleApp1\btbuoi2\obj\Debug\net6.0\btbuoi2.AssemblyInfoInputs.cache
+D:\PRN211_BL5\ConsoleApp1\btbuoi2\obj\Debug\net6.0\btbuoi2.AssemblyInfo.cs
+D:\PRN211_BL5\ConsoleApp1\btbuoi2\obj\Debug\net6.0\btbuoi2.csproj.CoreCompileInputs.cache
+D:\PRN211_BL5\ConsoleApp1\btbuoi2\obj\Debug\net6.0\btbuoi2.dll
+D:\PRN211_BL5\ConsoleApp1\btbuoi2\obj\Debug\net6.0\refint\btbuoi2.dll
+D:\PRN211_BL5\ConsoleApp1\btbuoi2\obj\Debug\net6.0\btbuoi2.pdb
+D:\PRN211_BL5\ConsoleApp1\btbuoi2\obj\Debug\net6.0\btbuoi2.genruntimeconfig.cache
+D:\PRN211_BL5\ConsoleApp1\btbuoi2\obj\Debug\net6.0\ref\btbuoi2.dll
